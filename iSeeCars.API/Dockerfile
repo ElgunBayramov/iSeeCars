@@ -2,7 +2,7 @@
 
 WORKDIR /app
 
-COPY bin/Release/net8.0/publish/ .
+COPY publish/ .
 
 EXPOSE 8080
 

@@ -22,7 +22,7 @@ jobs:
         run: dotnet build iSeeCars.API/iSeeCars.API.csproj --no-restore
 
       - name: Publish
-        run: dotnet publish iSeeCars.API/iSeeCars.API.csproj -c Release -o iSeeCars.API/bin/Release/net8.0/publish
+        run: dotnet publish iSeeCars.API/iSeeCars.API.csproj -c Release -o publish
 
       - name: Build Docker
         run: docker build -t iseecars-api .
