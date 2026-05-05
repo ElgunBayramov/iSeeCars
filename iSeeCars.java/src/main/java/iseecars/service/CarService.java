@@ -1,10 +1,12 @@
-package iseecars.manager;
+package iseecars.service;
 import static java.lang.System.out;
 import iseecars.model.Car;
+import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Component
 public class CarManager {
 private List<Car> cars = new ArrayList<Car>();
 private int nextId = 1;
