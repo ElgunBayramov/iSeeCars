@@ -1,6 +1,12 @@
 package iseecars.model;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "brands")
 public class Brand {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int brandId;
     private String brandName;
 

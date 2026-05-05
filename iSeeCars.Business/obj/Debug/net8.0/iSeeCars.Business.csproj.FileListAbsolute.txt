@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\bin\Debug\net8.0\iSeeCars.Business.deps.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\bin\Debug\net8.0\iSeeCars.Business.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\bin\Debug\net8.0\iSeeCars.Business.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\bin\Debug\net8.0\iSeeCars.Core.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\bin\Debug\net8.0\iSeeCars.Core.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.7124D7FF.Up2Date
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\refint\iSeeCars.Business.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\iSeeCars.Business.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Business\obj\Debug\net8.0\ref\iSeeCars.Business.dll

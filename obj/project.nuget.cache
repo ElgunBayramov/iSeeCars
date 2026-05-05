@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pURmepvZxXg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\services\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\services\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\managers\\modelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\managers\\modelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\managers\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\managers\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\managers\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\managers\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\entities\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\entities\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\iseecars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\iseecars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1CA3132-0DA3-448F-AFCD-9586B424EC03}|iSeeCars.API\\iSeeCars.API.csproj|solutionrelative:iseecars.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.core\\iseecars.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F3A283A-AC44-475E-8C26-AE8525CE9247}|iSeeCars.Core\\iSeeCars.Core.csproj|solutionrelative:iseecars.core\\iseecars.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|c:\\users\\lenovo\\desktop\\mywebsites and apps\\iseecars\\iseecars.business\\iseecars.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A00031E8-9D89-4864-8C24-C42E16BB4F91}|iSeeCars.Business\\iSeeCars.Business.csproj|solutionrelative:iseecars.business\\iseecars.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iSeeCars.Core\\Constants\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\FuelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iSeeCars.Core\\Constants\\FuelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iSeeCars.Core\\Models\\Entities\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iSeeCars.Core\\Models\\Entities\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "iSeeCars.API\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\CarController.cs",
+              "RelativeToolTip": "iSeeCars.API\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:30:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "iSeeCars.API\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "iSeeCars.API\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:31:50.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Services\\InputService.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Services\\InputService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Services\\InputService.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Services\\InputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:38:11.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Services\\MenuService.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Services\\MenuService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:38:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:27:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Validators\\CarValidator.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Validators\\CarValidator.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Validators\\CarValidator.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Validators\\CarValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:25:32.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "iSeeCars.API\\Controllers\\ModelController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "iSeeCars.API\\Controllers\\ModelController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:30:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Helpers\\InputHelper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:27:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Program.cs",
+              "RelativeDocumentMoniker": "iSeeCars.API\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Program.cs",
+              "RelativeToolTip": "iSeeCars.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:33:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\ModelManager.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Managers\\ModelManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\ModelManager.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Managers\\ModelManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:46:13.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\BrandManager.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Managers\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\BrandManager.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Managers\\BrandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:45:52.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\CarManager.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\Managers\\CarManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\Managers\\CarManager.cs",
+              "RelativeToolTip": "iSeeCars.Business\\Managers\\CarManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:46:08.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Model.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Entities\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:43:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Menu.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Entities\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:55:22.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\FuelType.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Entities\\FuelType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\FuelType.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Entities\\FuelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:44:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Brand.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:43:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Entities\\Car.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:43:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Dockerfile",
+              "RelativeDocumentMoniker": "iSeeCars.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\Dockerfile",
+              "RelativeToolTip": "iSeeCars.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-08T22:45:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "iSeeCars.API.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\iSeeCars.API.csproj",
+              "RelativeDocumentMoniker": "iSeeCars.API\\iSeeCars.API.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\iSeeCars.API.csproj",
+              "RelativeToolTip": "iSeeCars.API\\iSeeCars.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T18:17:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\appsettings.json",
+              "RelativeDocumentMoniker": "iSeeCars.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\appsettings.json",
+              "RelativeToolTip": "iSeeCars.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T18:17:31.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "iSeeCars.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.API\\appsettings.Development.json",
+              "RelativeToolTip": "iSeeCars.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T23:24:30.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "iSeeCars.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\iSeeCars.Business.csproj",
+              "RelativeDocumentMoniker": "iSeeCars.Business\\iSeeCars.Business.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Business\\iSeeCars.Business.csproj",
+              "RelativeToolTip": "iSeeCars.Business\\iSeeCars.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T18:33:09.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "iSeeCars.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\iSeeCars.Core.csproj",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\iSeeCars.Core.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\iSeeCars.Core.csproj",
+              "RelativeToolTip": "iSeeCars.Core\\iSeeCars.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T18:33:13.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\Menu.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Constants\\Menu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\Menu.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Constants\\Menu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:52:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Models\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Car.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Models\\Entities\\Car.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:51:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Models\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Models\\Entities\\Model.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Models\\Entities\\Model.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:51:58.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\FuelType.cs",
+              "RelativeDocumentMoniker": "iSeeCars.Core\\Constants\\FuelType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\Constants\\FuelType.cs",
+              "RelativeToolTip": "iSeeCars.Core\\Constants\\FuelType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:52:34.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

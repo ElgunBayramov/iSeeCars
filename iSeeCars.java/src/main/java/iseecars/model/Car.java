@@ -1,14 +1,35 @@
 package iseecars.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "cars")
 public class Car {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int carId;
     private int modelId;
+
+    @JsonProperty(access = JsonProperty.Access.READ_ONLY)
+    @Transient
+    public String modelName;
+
     private double price;
     private String color;
+    @Enumerated(EnumType.STRING)
     private FuelType fuelType;
     private double engine;
+    private String imagePath;
     private int year;
 
+    public String getImagePath() {
+        return imagePath;
+    }
+
+    public void setImagePath(String imagePath) {
+        this.imagePath = imagePath;
+    }
 
     public int getCarId() {
         return carId;
@@ -23,6 +44,14 @@ public class Car {
     }
     public void setModelId(int modelId){
         this.modelId = modelId;
+    }
+
+    public String getModelName() {
+        return modelName;
+    }
+
+    public void setModelName(String modelName) {
+        this.modelName = modelName;
     }
     public double getPrice(){
         return price;

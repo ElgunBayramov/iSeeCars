@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.API.exe
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\appsettings.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.API.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.API.deps.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.API.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\FluentValidation.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.Business.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.Core.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.Business.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.API\bin\Release\net8.0\publish\iSeeCars.Core.pdb

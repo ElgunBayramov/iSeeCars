@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\bin\Release\net8.0\iSeeCars.Core.deps.json
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\bin\Release\net8.0\iSeeCars.Core.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\bin\Release\net8.0\iSeeCars.Core.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\refint\iSeeCars.Core.dll
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\iSeeCars.Core.pdb
+C:\Users\LENOVO\Desktop\MyWebsites and Apps\iSeeCars\iSeeCars.Core\obj\Release\net8.0\ref\iSeeCars.Core.dll
