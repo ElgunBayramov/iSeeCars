@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKv/6rWKA68=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\MyWebsites and Apps\\iSeeCars\\iSeeCars.Core\\iSeeCars.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
